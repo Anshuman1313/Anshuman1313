@@ -1,8 +1,8 @@
 # Hi, I'm Anshuman 👋  
 🚀 Frontend Developer | Passionate about Web Development  
 
-🔹 **Currently Learning:** JavaScript, React, Web Development  
-🔹 **Skills:** HTML, CSS, JavaScript, Git  
+
+🔹 **Skills:** HTML, CSS, JavaScript, Git ,TailwindCss, React, NextJs , MongoDb
 🔹 **Projects:** [Spotify Clone](#)   
 
 📌 **Latest Repositories:**  
