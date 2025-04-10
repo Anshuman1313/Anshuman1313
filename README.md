@@ -7,7 +7,7 @@
 
 📌 **Latest Repositories:**  
 - [Daily Code Practice](https://github.com/Anshuman1313/daily-code-practice)  
-- [Lock Pass (Password Manager)]([https://github.com/Anshuman1313/spotify-clone](https://github.com/Anshuman1313/LockPass))  
+- [Lock Pass (Password Manager)]([https://github.com/Anshuman1313/LockPass])  
 
 🌟 **Connect with Me:**  
 Linkedin-www.linkedin.com/in/anshuman-rana-965863272 | 
