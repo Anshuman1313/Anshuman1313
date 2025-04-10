@@ -3,11 +3,11 @@
 
 
 🔹 **Skills:** HTML, CSS, JavaScript, Git ,TailwindCss, React, NextJs , MongoDb
-🔹 **Projects:** [Spotify Clone](#)   
+🔹 **Projects:** [Lock Pass](#)   
 
 📌 **Latest Repositories:**  
 - [Daily Code Practice](https://github.com/Anshuman1313/daily-code-practice)  
-- [Spotify Clone](https://github.com/Anshuman1313/spotify-clone)  
+- [Lock Pass (Password Manager)]([https://github.com/Anshuman1313/spotify-clone](https://github.com/Anshuman1313/LockPass))  
 
 🌟 **Connect with Me:**  
 Linkedin-www.linkedin.com/in/anshuman-rana-965863272 | 
