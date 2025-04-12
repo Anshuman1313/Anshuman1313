@@ -3,7 +3,7 @@
 
 
 🔹 **Skills:** HTML, CSS, JavaScript, Git ,TailwindCss, React, NextJs , MongoDb
-🔹 **Projects:** [Lock Pass](https://github.com/Anshuman1313/LockPass)  
+🔹 **Projects:** [Lock Pass](https://github.com/Anshuman1313/LockPass)  [VorLogs](https://github.com/Anshuman1313/V-rLog-BloggingWebsite)
 
 📌 **Latest Repositories:**  
 - [Daily Code Practice](https://github.com/Anshuman1313/daily-code-practice)  
