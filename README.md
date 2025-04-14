@@ -3,12 +3,12 @@
 
 
 🔹 **Skills:** HTML, CSS, JavaScript, Git ,TailwindCss, React, NextJs , MongoDb
-🔹 **Projects:** [Lock Pass](https://github.com/Anshuman1313/LockPass)  [BlogsVorlogs](https://github.com/Anshuman1313/V-rLog-BloggingWebsite-)
+🔹 **Projects:** [Lock Pass](https://github.com/Anshuman1313/LockPass)  [BlogsVorlogs](https://github.com/Anshuman1313/BlogsLogs)
 
 📌 **Latest Repositories:**  
 - [Daily Code Practice](https://github.com/Anshuman1313/daily-code-practice)  
 - [Lock Pass (Password Manager)](https://github.com/Anshuman1313/LockPass)
-- [VorLogs (Blogging Website)](https://github.com/Anshuman1313/V-rLog-BloggingWebsite-)
+- [VorLogs (Blogging Website)](https://github.com/Anshuman1313/BlogsLogs)
 
 🌟 **Connect with Me:**  
 Linkedin-www.linkedin.com/in/anshuman-rana-965863272 | 
