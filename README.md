@@ -1,8 +1,8 @@
 # Hi, I'm Anshuman 👋  
-🚀 Frontend Developer | Passionate about Web Development  
+🚀 Full stack(Frontend Developer) | Passionate about Web Development  
 
 
-🔹 **Skills:** HTML, CSS, JavaScript, Git ,TailwindCss, React, NextJs , MongoDb
+🔹 **Skills:** HTML, CSS, JavaScript ,TailwindCss, React, NextJs , MongoDb,Git
 🔹 **Projects:** [Lock Pass](https://github.com/Anshuman1313/LockPass)  [BlogsVorlogs](https://github.com/Anshuman1313/BlogsLogs)
 
 📌 **Latest Repositories:**  
